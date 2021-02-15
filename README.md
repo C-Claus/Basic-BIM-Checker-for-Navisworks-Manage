@@ -4,7 +4,7 @@ This page will explain how the  application can be used to make Search Sets acco
 
 **1. Install the Basic BIM Checker tool with the setup**
 
-![picture](https://github.com/C-Claus/XML-for-Navisworks/blob/master/Basic_BIM_Checker_for_Navisworks_Manage/images/02.%20install.png)
+![picture](https:/github.com/C-Claus/XML-for-Navisworks/blob/master/Basic_BIM_Checker_for_Navisworks_Manage/images/02.%20install.png)
 
 The setup installer can be downloaded [here](https://github.com/C-Claus/XML-for-Navisworks/blob/master/Basic_BIM_Checker_for_Navisworks_Manage/setup_basic_bim_checker.exe)
 
